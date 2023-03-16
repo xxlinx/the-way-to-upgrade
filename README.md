@@ -9,7 +9,7 @@
 ## 入门
 
 - [x] [Teach Yourself Programming in Ten Years](https://liuyandong.com/2017/10/25/122/)
-- [ ] [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
+- [x] [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
 - [ ] [What are some of the most basic things every programmer should know?](https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know)
 
 ## 程序员修养
