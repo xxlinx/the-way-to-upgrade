@@ -50,8 +50,8 @@
 
 #### C/C++
 
-- [ ] [C程序设计语言](https://book.douban.com/subject/1139336/)
-- [ ] [C语言程序设计现代方法](https://book.douban.com/subject/2280547/)
+- [x] [C程序设计语言](https://book.douban.com/subject/1139336/)
+- [x] [C语言程序设计现代方法](https://book.douban.com/subject/2280547/)
 - [ ] [C++ Primer 中文版（第 5 版）](https://book.douban.com/subject/25708312/)
 - [ ] [Effective C++](https://book.douban.com/subject/5387403/)
 - [ ] [More Effective C++（中文版](https://book.douban.com/subject/5908727/)
